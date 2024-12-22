@@ -9,12 +9,12 @@
   padding: 100px;
   margin-top: 10px;
   text-align: center;
-  border: 1px solid red;
   background-color: aliceblue;
+  border: 5px solid violet;
 }
 
 .alternate {
   box-sizing: border-box;
-  width: 302px;
-  height: 302px;
+  width: 310px;
+  height: 310px;
 }
