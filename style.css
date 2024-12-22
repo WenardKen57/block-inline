@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  padding: 100px;
+  margin-top: 10px;
+  text-align: center;
+  border: 1px solid red;
+  background-color: aliceblue;
+}
+
+.alternate {
+  box-sizing: border-box;
+  width: 302px;
+  height: 302px;
+}
